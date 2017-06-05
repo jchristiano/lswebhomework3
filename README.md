@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: John Christiano
 
-I like to:
+I like to: Learn new things - espcially code!
 
-I'm learning:
+I'm learning: HTML, CSS, JavaScript, Git and Python
 
 ```
 
